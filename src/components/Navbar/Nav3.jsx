@@ -13,11 +13,11 @@ function Nav3() {
       <div><Link to="/">HOME</Link></div>
       <div><Link to="/living">LIVING</Link></div>
       <div><Link to="/dining">DINING</Link></div>
-      <div><a href="">OFFICE</a></div>
-      <div><a href="">HOME DECOR</a></div>
-      <div><a href="">OUTDOOR</a></div>
-      <div><a href="">BED ROOM</a></div>
-      <div><a href="">CONTACT US</a></div>
+      <div><Link to="office">OFFICE</Link></div>
+      <div><Link to="homedecor">HOME DECOR</Link></div>
+      <div><Link to="outdoor">OUTDOOR</Link></div>
+      <div><Link to="bedroom">BED ROOM</Link></div>
+      <div><Link to="contactus">CONTACT US</Link></div>
       <div className='icons'><span className='fb'><FaFacebookSquare /></span>
       <span className='insta'><FaInstagram /></span>
       <span className='linkd'><TbBrandLinkedin />
