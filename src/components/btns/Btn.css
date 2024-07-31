@@ -1,0 +1,14 @@
+div button{
+    padding: 8px 25px;
+    font-weight: bold;
+    background: gray;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    transition: 0.5s;
+}
+div button:hover{
+    background: yellowgreen;
+    color: red;
+    cursor: pointer;
+}

@@ -1,0 +1,68 @@
+.login1{
+    width: 100%;
+    background-image: url(https://cgmood.com/storage/previews/04-2021/59241/59241-144093.jpg);
+    background-position:bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 20em;
+}
+.login1 .input1{
+    height: 100%;
+    width: 100%;
+    background: #000000b1;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.login1 .input1 .div1{
+    width: 40%;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 15%;
+}
+.login1 .input1 .div2{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 70%;
+}
+.login1 .input1 .div1 h1{
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.login1 .input1 .div1 p{
+    font-size: 1em;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.login1 .input1 .div2 input{
+    height: 3em;
+    width: 30em;
+    margin-right: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+    background: rgba(57, 57, 57, 0.749);
+    color: white;
+    border: 2px solid yellowgreen;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.login1 .input1 .div2 button{
+    background: yellowgreen;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.login1 .input1 .div2 button:hover{
+    background: rgba(153, 205, 50, 0.591);
+    color: white;
+}

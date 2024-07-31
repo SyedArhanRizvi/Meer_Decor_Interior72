@@ -1,0 +1,12 @@
+.sp{
+    width: 25em;
+    height: 10em;
+}
+.sp .img {
+    height: 100%;
+    width: 100%;
+}
+.sp .img img{
+    height: 100%;
+    width: 100%;
+}

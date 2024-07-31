@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100vw;
+    position: relative;
+    /* overflow-x: hidden; */
+}
+
+.s1{
+    width: 100vw;
+    height: 80vh;
+    /* overflow: hidden; */
+}
+.s2 {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+
+}
+.s2 .heading{
+    width: 70%;
+    /* border: 1px solid black; */
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.s2 .heading .h1{
+    font-size: 4.5em;
+    border-right-style: dashed;
+    padding-right: 20px;
+    text-align: center;
+    /* width: 70%; */
+}
+.s2 .heading .h2{
+    font-size: 1.8em;
+    width: 30%;
+    font-style: italic;
+    color: gray;
+}
+.s2 .cardType1Cont{
+    width: 70%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.s3{
+    width: 100vw;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.s3 .cardTYpe2{
+    width: 70%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    margin-top: 30px;
+    border-bottom-style: groove;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+.s3 .changeCard{
+    width: 70%;
+    /* border: 1px solid black; */
+    border-bottom-style: groove;
+    display: flex;
+    padding-bottom: 4px;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.s3 .changeCard .c1{
+    color: white;
+    /* border: 1px solid black; */
+    padding: 5px 25px;
+    background: rgb(155, 155, 155);
+    font-size: 1.3em;
+    transition: 0.5s;
+    
+}
+.s3 .changeCard .c1:hover{
+    background: black;
+    /* font-weight: bold; */
+    cursor: pointer;
+
+}
+.s3 .cardTYpe3{
+    width: 70%;
+    gap: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+.s3 .specialCard{
+    width: 70%;
+    display: flex;
+    gap: 10px;
+    justify-content: space-evenly;
+}
+.s3 .specialCard .sp2{
+    width: 15em;
+    height: 10em;
+}
+.s3 .specialCard .sp2 img{
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,35 @@
+.nav1{
+    width: 100%;
+    background: #000;
+    color: white;
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px 20px;
+    border-bottom-style: groove;
+}
+.nav1 .acCont{
+    position: absolute;
+    left: 40px;
+    color: rgb(179, 178, 178);
+}
+.nav1 .acCont a{
+    text-decoration: none;
+    color: white;
+}
+.nav1 .logo1{
+    display: flex;
+    gap: 20px;
+}
+.nav1 .logo1 div{
+    /* border: wheat; */
+    border-right-style: solid;
+    padding-right: 10px;
+   cursor: pointer;
+}
+.nav1 .logo1 div span{
+    color: rgb(211, 255, 52);
+}
+.nav1 .logo1 div .chat{
+    color: rgb(21, 237, 21);
+}

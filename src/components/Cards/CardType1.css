@@ -1,0 +1,25 @@
+.ct1{
+    width: 20em;
+    height: 25em;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;  
+}
+.ct1 .img{
+    width: 100%;
+    height: 70%;
+}
+.ct1 .img img{
+    height: 100%;
+    width: 100%;
+}
+.ct1 .btnstitles {
+    width: 100%;
+    text-align: center;
+    font-size: 1.2em;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
