@@ -31,7 +31,7 @@ const Home = () => {
         { 
           data.slice(0, 3).map((item)=>{
            
-         return  <Card name={item.title} price={item.price} img={item.img}></Card>
+         return  <Card item={item}></Card>
     })
    }
         </div>

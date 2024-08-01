@@ -74,10 +74,10 @@ function Footer() {
           <p> <a href="">Office Sets</a></p>
         </div>
       </div>
-      <div className="flogo">
+      {/* <div className="flogo">
     <div className="name"><span><b>MEER DECOR</b></span></div>
     <div className="name2"><span>INTERIORS</span><p><b>72</b></p></div>
-      </div>
+      </div> */}
     </div>
      <hr />
     <div className="fd2">

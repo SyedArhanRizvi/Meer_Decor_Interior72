@@ -1,0 +1,50 @@
+section{
+    width: 100vw;
+    /* padding: 10px; */
+    position: relative;
+}
+section .allItemsBar{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+section .allItemsBar .cartCards{
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+section .allItemsBar .cartCards .headDetails{
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+section .allItemsBar .cartCards .headDetails .name{
+    width: 100%;
+    border-bottom-style: groove;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    /* font-size: 3em; */
+}
+section .allItemsBar .cartCards .headDetails .itemsCount{
+    width: 100%;
+    /* font-size: 3em; */
+}
+section .allItemsBar .cartCards .cards{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+section .allItemsBar .paymentBar{
+    width: 30%;
+    height: 30em;
+    /* background: red; */
+    position: sticky;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    right: 10px;
+    top: 10%;
+}

@@ -1,0 +1,16 @@
+.itemCartCard{
+    width: 100%;
+    display: flex;
+    margin-bottom: 30px;
+}
+.itemCartCard .img img{
+    width: 15em;
+    height: 10em;
+}
+.itemCartCard .itemCartDetails{
+    width: 70%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}

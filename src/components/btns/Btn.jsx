@@ -1,9 +1,9 @@
 import React from 'react'
 import '../btns/Btn.css'
-function Btn() {
+function Btn({onClick}) {
   return (
     <div>
-      <button>Add to Cart</button>
+      <button onClick={onClick}>Add to Cart</button>
     </div>
   )
 }

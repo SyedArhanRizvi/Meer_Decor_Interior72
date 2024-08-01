@@ -9,6 +9,7 @@ import Dining from "./components/dining/Dining";
 import HomeDecor from "./components/homedecor/HomeDecor";
 import Outdoor from "./components/outdoor/Outdoor";
 import Contact from './components/contactus/Contact';
+import Cart from "./components/cart/Cart";
 function App() {
   return (
     <BrowserRouter>
@@ -22,6 +23,7 @@ function App() {
         <Route path="outdoor" element={<Outdoor />}></Route>
         {/* <Route path="bedroom" element={<BedRoom />}></Route> */}
         <Route path="contactus" element={<Contact />}></Route>
+        <Route path="cartEle" element={< Cart/>}></Route>
         {/* <Route path="/" element={<Home />} />
         <Route path="/" element={<Home />} />
         <Route path="/" element={<Home />} /> */}

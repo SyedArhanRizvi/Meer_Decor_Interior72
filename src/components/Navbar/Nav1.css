@@ -30,6 +30,11 @@
 .nav1 .logo1 div span{
     color: rgb(211, 255, 52);
 }
+.nav1 .logo1 div  .link{
+    /* color: rgb(211, 255, 52); */
+    text-decoration: none;
+    color: white;
+} 
 .nav1 .logo1 div .chat{
     color: rgb(21, 237, 21);
 }
