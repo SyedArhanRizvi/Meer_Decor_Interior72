@@ -41,7 +41,7 @@ const Home = () => {
         <div className="cardTYpe2">
         {
           data.slice(3, 5).map((item)=>{
-            return < CardsType2 name={item.name} title={item.title} price={item.price} img={item.img} date={item.endsDate}/>
+            return < CardsType2 item={item}/>
           })
         }
         </div>
@@ -53,7 +53,7 @@ const Home = () => {
         <div className="cardTYpe3">
        {
         data.slice(5, 11).map((item)=>{
-          return  <CardsType3 name={item.title} date={item.price} img={item.img}></CardsType3>
+          return  <CardsType3 item={item}></CardsType3>
         })
        }
         </div>

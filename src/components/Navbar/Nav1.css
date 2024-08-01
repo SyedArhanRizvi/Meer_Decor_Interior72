@@ -2,11 +2,13 @@
     width: 100%;
     background: #000;
     color: white;
-    position: relative;
+    /* position: fixed;
+    top: 0px; */
     display: flex;
     justify-content: flex-end;
     padding: 15px 20px;
     border-bottom-style: groove;
+    /* z-index: 502; */
 }
 .nav1 .acCont{
     position: absolute;

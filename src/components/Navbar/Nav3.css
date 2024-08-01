@@ -4,6 +4,9 @@
     background: rgb(44, 44, 44);
     display: flex;
     /* padding: 10px 20px; */
+    /* position: fixed;
+    top: 145px;
+    z-index: 500; */
     justify-content: space-evenly;
     height: 2.2em;
     /* position: relative;

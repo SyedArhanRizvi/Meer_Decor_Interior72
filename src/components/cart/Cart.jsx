@@ -1,11 +1,13 @@
 import React from 'react'
 import CartDesign from '../cartdesign/CartDesign'
+import { useState } from 'react';
 import '../cart/Cart.css'
 import { useSelector } from 'react-redux';
 import PaymentSummary from './PaymentSummary';
 function Cart() {
   const cart = useSelector((e) => e?.cart?.value);
-  console.log(cart);
+
+  // console.log(cart);
   return (
     <section>
       <div className="allItemsBar">
@@ -25,7 +27,8 @@ function Cart() {
                 
         </div>
          <div className="paymentBar">
-            < PaymentSummary />
+           < PaymentSummary/>
+            
          </div>
       </div>
      

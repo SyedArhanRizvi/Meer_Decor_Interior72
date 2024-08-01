@@ -1,7 +1,14 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "../cart/PaymentSummary.css"
-
+// import { useState } from 'react';
 function PaymentSummary() {
+    // const [amount, setAmount] = useState(0);
+    // useEffect(()=>{
+    //     price.splice(0,1);
+    //     // console.log(price);
+    //     // setAmount(price);
+    // }, [price])
+    // console.log(price);
   return (
     <div className='summary'>
         <div className='sname'>
@@ -10,7 +17,7 @@ function PaymentSummary() {
         <div className="total">
             <div className="subtotal">
                 <div><h3>Sub Total</h3></div>
-                <div><h3>1200</h3></div>
+                <div><h3>0</h3></div>
             </div>
             <div className="txes">
                 <div><p>Estimated Tax</p></div>
