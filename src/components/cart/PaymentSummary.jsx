@@ -1,7 +1,14 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import "../cart/PaymentSummary.css"
 // import { useState } from 'react';
+import { useSelector } from 'react-redux'
 function PaymentSummary() {
+    const [total, setTotal] = useState(0);
+    const cart = useSelector((e) => e?.cart?.value);
+    useEffect(()=>{
+        setTotal(cart.reduce((acc, curr)=>acc+Number(curr.price), 0));
+    }, [])
+    console.log(cart);
     // const [amount, setAmount] = useState(0);
     // useEffect(()=>{
     //     price.splice(0,1);
@@ -9,6 +16,7 @@ function PaymentSummary() {
     //     // setAmount(price);
     // }, [price])
     // console.log(price);
+    
   return (
     <div className='summary'>
         <div className='sname'>
@@ -17,7 +25,7 @@ function PaymentSummary() {
         <div className="total">
             <div className="subtotal">
                 <div><h3>Sub Total</h3></div>
-                <div><h3>0</h3></div>
+                <div><h3>{total}</h3></div>
             </div>
             <div className="txes">
                 <div><p>Estimated Tax</p></div>
