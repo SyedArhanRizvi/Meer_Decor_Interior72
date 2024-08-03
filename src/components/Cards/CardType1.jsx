@@ -21,7 +21,7 @@ function Card({ item }) {
       </div>
       <div className="btnstitles">
         <p>{item.name}</p>
-        <p>{item.price}</p>
+        <p>${item.price}</p>
         <Btn onClick={() => handleAdd(item)}></Btn>
       </div>
     </div>

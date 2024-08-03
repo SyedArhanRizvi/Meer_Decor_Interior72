@@ -25,7 +25,7 @@ function CardsType3({item}) {
         <div className="na"><h1>{item.title}</h1></div>
         <div className="nm">
         <Btn onClick={() => handleAdd(item)}></Btn>
-            <p>{item.price}</p>
+            <p>${item.price}</p>
         </div>
       </div>
     </div>

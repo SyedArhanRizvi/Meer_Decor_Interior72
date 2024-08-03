@@ -24,7 +24,7 @@ function CardsType2({item}) {
       </div>
       <div className="ct2d2">
         <h4>{item.title}</h4>
-        <p>{item.price}</p>
+        <p>${item.price}</p>
       </div>
 
     </div>
