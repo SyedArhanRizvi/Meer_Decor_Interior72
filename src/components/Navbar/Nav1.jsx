@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 function Nav1() {
   return (
     <div className='nav1'>
-        <div className='acCont'><p>Welcome visitors you can <a href="">login</a> or <a href="">create a new account</a></p></div>
+        <div className='acCont'><p>Welcome visitors you can <Link to="">login</Link> or <Link to="signIn">create a new account</Link></p></div>
         <div className='logo1'>
             <div><span><FaRegHeart /></span> Wish List</div>
             <div><span><RiAccountCircleLine /></span> My Account </div>

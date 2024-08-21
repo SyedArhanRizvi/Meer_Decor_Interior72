@@ -1,0 +1,157 @@
+{
+    "kitchenInteriorAndFurniture": {
+      "kitchenCabinets": [
+        {
+          "name": "Modern White Kitchen Cabinet",
+          "price": 1299.99,
+          "imgUrls": [
+            "https://sampleimage.com/modern-white-cabinet.jpg"
+          ],
+          "description": "A sleek modern white kitchen cabinet with ample storage space and soft-close drawers."
+        },
+        {
+          "name": "Rustic Wooden Kitchen Cabinet",
+          "price": 1499.99,
+          "imgUrls": [
+            "https://sampleimage.com/rustic-wooden-cabinet.jpg"
+          ],
+          "description": "A rustic-style wooden kitchen cabinet that adds warmth and character to your kitchen."
+        },
+        {
+          "name": "Glass Door Kitchen Cabinet",
+          "price": 1599.99,
+          "imgUrls": [
+            "https://sampleimage.com/glass-door-cabinet.jpg"
+          ],
+          "description": "A stylish kitchen cabinet with glass doors, perfect for showcasing your dishware."
+        },
+        {
+          "name": "Corner Kitchen Cabinet",
+          "price": 1199.99,
+          "imgUrls": [
+            "https://sampleimage.com/corner-kitchen-cabinet.jpg"
+          ],
+          "description": "A corner kitchen cabinet designed to maximize space in your kitchen."
+        }
+      ],
+      "kitchenIslands": [
+        {
+          "name": "Granite Top Kitchen Island",
+          "price": 1999.99,
+          "imgUrls": [
+            "https://sampleimage.com/granite-top-island.jpg"
+          ],
+          "description": "A spacious kitchen island with a granite top, ideal for meal prep and additional storage."
+        },
+        {
+          "name": "Butcher Block Kitchen Island",
+          "price": 1799.99,
+          "imgUrls": [
+            "https://sampleimage.com/butcher-block-island.jpg"
+          ],
+          "description": "A durable butcher block kitchen island with plenty of counter space for chopping and preparing meals."
+        },
+        {
+          "name": "Rolling Kitchen Island",
+          "price": 999.99,
+          "imgUrls": [
+            "https://sampleimage.com/rolling-island.jpg"
+          ],
+          "description": "A versatile rolling kitchen island with a wood top and open shelving."
+        },
+        {
+          "name": "Marble Kitchen Island",
+          "price": 2199.99,
+          "imgUrls": [
+            "https://sampleimage.com/marble-kitchen-island.jpg"
+          ],
+          "description": "A luxurious kitchen island with a marble top, perfect for high-end kitchens."
+        }
+      ],
+      "kitchenTablesAndChairs": [
+        {
+          "name": "Small Round Kitchen Table",
+          "price": 499.99,
+          "imgUrls": [
+            "https://sampleimage.com/small-round-table.jpg"
+          ],
+          "description": "A small round kitchen table, perfect for casual dining or a breakfast nook."
+        },
+        {
+          "name": "Farmhouse Kitchen Table",
+          "price": 799.99,
+          "imgUrls": [
+            "https://sampleimage.com/farmhouse-table.jpg"
+          ],
+          "description": "A farmhouse-style kitchen table with a sturdy wooden frame and a distressed finish."
+        },
+        {
+          "name": "Kitchen Bar Stools",
+          "price": 129.99,
+          "imgUrls": [
+            "https://sampleimage.com/kitchen-bar-stools.jpg"
+          ],
+          "description": "A set of two modern kitchen bar stools with padded seats and metal legs."
+        },
+        {
+          "name": "Wooden Kitchen Chairs",
+          "price": 149.99,
+          "imgUrls": [
+            "https://sampleimage.com/wooden-kitchen-chairs.jpg"
+          ],
+          "description": "A pair of classic wooden kitchen chairs with a slatted back design."
+        },
+        {
+          "name": "High-Back Upholstered Kitchen Chairs",
+          "price": 199.99,
+          "imgUrls": [
+            "https://sampleimage.com/upholstered-kitchen-chairs.jpg"
+          ],
+          "description": "A set of two high-back upholstered kitchen chairs, offering comfort and style."
+        }
+      ],
+      "kitchenStorage": [
+        {
+          "name": "Pantry Cabinet",
+          "price": 699.99,
+          "imgUrls": [
+            "https://sampleimage.com/pantry-cabinet.jpg"
+          ],
+          "description": "A spacious pantry cabinet with adjustable shelves, perfect for storing dry goods and kitchen essentials."
+        },
+        {
+          "name": "Pull-Out Drawer Organizer",
+          "price": 59.99,
+          "imgUrls": [
+            "https://sampleimage.com/pull-out-organizer.jpg"
+          ],
+          "description": "A pull-out drawer organizer that maximizes storage space and keeps your kitchen tidy."
+        },
+        {
+          "name": "Kitchen Shelving Unit",
+          "price": 299.99,
+          "imgUrls": [
+            "https://sampleimage.com/kitchen-shelving-unit.jpg"
+          ],
+          "description": "A versatile kitchen shelving unit with open shelves, perfect for displaying cookware or decorative items."
+        },
+        {
+          "name": "Wall-Mounted Pot Rack",
+          "price": 99.99,
+          "imgUrls": [
+            "https://sampleimage.com/pot-rack.jpg"
+          ],
+          "description": "A wall-mounted pot rack that keeps your pots and pans within easy reach."
+        },
+        {
+          "name": "Kitchen Cart",
+          "price": 249.99,
+          "imgUrls": [
+            "https://sampleimage.com/kitchen-cart.jpg"
+          ],
+          "description": "A mobile kitchen cart with storage drawers and a butcher block top."
+        }
+      ]
+    }
+  }
+  

@@ -15,7 +15,7 @@ function Nav3() {
       <div><Link to="/dining">DINING</Link></div>
       <div><Link to="office">OFFICE</Link></div>
       <div><Link to="homedecor">HOME DECOR</Link></div>
-      <div><Link to="outdoor">OUTDOOR</Link></div>
+      <div><Link to="outdoor">KITCHEN</Link></div>
       <div><Link to="bedroom">BED ROOM</Link></div>
       <div><Link to="contactus">CONTACT US</Link></div>
       <div className='icons'><span className='fb'><FaFacebookSquare /></span>

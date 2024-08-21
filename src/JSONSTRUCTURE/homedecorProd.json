@@ -1,0 +1,175 @@
+{
+    "homeDecorAndFurniture": {
+      "wallArt": [
+        {
+          "name": "Abstract Canvas Painting",
+          "price": 159.99,
+          "imgUrls": [
+            "https://sampleimage.com/abstract-canvas-painting.jpg"
+          ],
+          "description": "A modern abstract canvas painting that adds a splash of color and creativity to any room."
+        },
+        {
+          "name": "Framed Landscape Print",
+          "price": 89.99,
+          "imgUrls": [
+            "https://sampleimage.com/framed-landscape-print.jpg"
+          ],
+          "description": "A serene landscape print in a sleek black frame, perfect for adding a touch of nature to your walls."
+        },
+        {
+          "name": "Metal Wall Sculpture",
+          "price": 199.99,
+          "imgUrls": [
+            "https://sampleimage.com/metal-wall-sculpture.jpg"
+          ],
+          "description": "A unique metal wall sculpture that serves as a striking focal point in any living space."
+        },
+        {
+          "name": "Wooden Wall Art",
+          "price": 129.99,
+          "imgUrls": [
+            "https://sampleimage.com/wooden-wall-art.jpg"
+          ],
+          "description": "Rustic wooden wall art that adds warmth and character to your home decor."
+        }
+      ],
+      "mirrors": [
+        {
+          "name": "Round Wall Mirror",
+          "price": 99.99,
+          "imgUrls": [
+            "https://sampleimage.com/round-wall-mirror.jpg"
+          ],
+          "description": "A stylish round wall mirror with a sleek metal frame, perfect for modern interiors."
+        },
+        {
+          "name": "Antique Gold Mirror",
+          "price": 149.99,
+          "imgUrls": [
+            "https://sampleimage.com/antique-gold-mirror.jpg"
+          ],
+          "description": "An elegant antique gold mirror that adds a touch of vintage charm to any room."
+        },
+        {
+          "name": "Full-Length Floor Mirror",
+          "price": 249.99,
+          "imgUrls": [
+            "https://sampleimage.com/full-length-floor-mirror.jpg"
+          ],
+          "description": "A full-length floor mirror with a solid wood frame, ideal for bedrooms or entryways."
+        },
+        {
+          "name": "Decorative Sunburst Mirror",
+          "price": 179.99,
+          "imgUrls": [
+            "https://sampleimage.com/sunburst-mirror.jpg"
+          ],
+          "description": "A decorative sunburst mirror that adds a touch of glamour to your living space."
+        }
+      ],
+      "decorativeVases": [
+        {
+          "name": "Ceramic Flower Vase",
+          "price": 49.99,
+          "imgUrls": [
+            "https://sampleimage.com/ceramic-flower-vase.jpg"
+          ],
+          "description": "A beautiful ceramic flower vase with a glossy finish, perfect for displaying fresh flowers."
+        },
+        {
+          "name": "Glass Terrarium Vase",
+          "price": 69.99,
+          "imgUrls": [
+            "https://sampleimage.com/glass-terrarium-vase.jpg"
+          ],
+          "description": "A modern glass terrarium vase that can be used as a centerpiece or decorative piece."
+        },
+        {
+          "name": "Tall Floor Vase",
+          "price": 99.99,
+          "imgUrls": [
+            "https://sampleimage.com/tall-floor-vase.jpg"
+          ],
+          "description": "A tall floor vase made of bamboo, adding a natural touch to your home decor."
+        },
+        {
+          "name": "Metallic Accent Vase",
+          "price": 59.99,
+          "imgUrls": [
+            "https://sampleimage.com/metallic-accent-vase.jpg"
+          ],
+          "description": "A chic metallic accent vase that adds a touch of elegance to any room."
+        }
+      ],
+      "accentFurniture": [
+        {
+          "name": "Vintage Accent Chair",
+          "price": 299.99,
+          "imgUrls": [
+            "https://sampleimage.com/vintage-accent-chair.jpg"
+          ],
+          "description": "A vintage-style accent chair with a tufted back and wooden legs, perfect for living rooms or bedrooms."
+        },
+        {
+          "name": "Console Table",
+          "price": 199.99,
+          "imgUrls": [
+            "https://sampleimage.com/console-table.jpg"
+          ],
+          "description": "A sleek console table with a metal frame and glass top, ideal for entryways or hallways."
+        },
+        {
+          "name": "Ottoman Storage Bench",
+          "price": 249.99,
+          "imgUrls": [
+            "https://sampleimage.com/ottoman-storage-bench.jpg"
+          ],
+          "description": "A multifunctional ottoman storage bench that provides both seating and storage solutions."
+        },
+        {
+          "name": "Side Table with Drawer",
+          "price": 129.99,
+          "imgUrls": [
+            "https://sampleimage.com/side-table-with-drawer.jpg"
+          ],
+          "description": "A wooden side table with a drawer, perfect for keeping essentials close at hand."
+        }
+      ],
+      "rugsAndCarpets": [
+        {
+          "name": "Bohemian Area Rug",
+          "price": 299.99,
+          "imgUrls": [
+            "https://sampleimage.com/bohemian-area-rug.jpg"
+          ],
+          "description": "A vibrant Bohemian-style area rug that adds color and personality to your living space."
+        },
+        {
+          "name": "Geometric Pattern Rug",
+          "price": 199.99,
+          "imgUrls": [
+            "https://sampleimage.com/geometric-pattern-rug.jpg"
+          ],
+          "description": "A modern geometric pattern rug, perfect for contemporary interiors."
+        },
+        {
+          "name": "Handwoven Jute Rug",
+          "price": 249.99,
+          "imgUrls": [
+            "https://sampleimage.com/handwoven-jute-rug.jpg"
+          ],
+          "description": "A natural handwoven jute rug that adds texture and warmth to your floors."
+        },
+        {
+          "name": "Floral Print Carpet",
+          "price": 179.99,
+          "imgUrls": [
+            "https://sampleimage.com/floral-print-carpet.jpg"
+          ],
+          "description": "A floral print carpet that brings a touch of nature indoors."
+        }
+      ]
+    }
+  }
+  

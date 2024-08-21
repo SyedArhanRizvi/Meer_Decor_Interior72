@@ -1,0 +1,94 @@
+[
+    {
+        "officeItems": {
+          "desks": [
+            {
+              "name": "Executive Desk",
+              "price": 799.99,
+              "imgUrls": [
+                "https://th.bing.com/th/id/OIP.vYcxsEVoPBjYNV8guxFLZwAAAA?rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.gr6FEgE3AH8l6BTGU2zOXgHaIe?rs=1&pid=ImgDetMain"
+              ],
+              "description": "A large executive desk with a sleek wooden finish and ample workspace."
+            },
+            {
+              "name": "Standing Desk",
+              "price": 499.99,
+              "imgUrls": [
+                "https://th.bing.com/th/id/OIP.5yj836m56E6NGbS7MszabAHaHa?w=1380&h=1380&rs=1&pid=ImgDetMain",
+                "https://i.pinimg.com/originals/c7/98/c6/c798c6a5bf958f2a2073ef7e34b28fa1.jpg"
+              ],
+              "description": "An adjustable standing desk that allows you to work comfortably either sitting or standing."
+            },
+            {
+              "name": "Corner Desk",
+              "price": 599.99,
+              "imgUrls": [
+                "https://th.bing.com/th/id/OIP.haKrueTOGNNDM79ztUrHhAHaHa?w=2500&h=2500&rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.Nr5hRo3UDUuZRpe2tmPEAwHaHa?w=500&h=500&rs=1&pid=ImgDetMain"
+              ],
+              "description": "A space-saving corner desk with a modern design and plenty of storage."
+            }
+          ],
+          "officeChairs": [
+            {
+              "name": "Ergonomic Office Chair",
+              "price": 199.99,
+              "imgUrls": [
+                "https://th.bing.com/th/id/OIP.oqxeTSv78hCq8wUaR2lwPAAAAA?rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.N-iQuZn7riSk_saApGxZSAHaHa?rs=1&pid=ImgDetMain"
+              ],
+              "description": "A comfortable ergonomic office chair with lumbar support and adjustable height."
+            },
+            {
+              "name": "Leather Executive Chair",
+              "price": 299.99,
+              "imgUrls": [
+                "https://i.pinimg.com/originals/bf/06/d9/bf06d9af275a0c724d48f12c553c892b.jpg",
+                "https://th.bing.com/th/id/OIP.Dyis24HAMDKErpn_HU3stQHaHa?w=650&h=650&rs=1&pid=ImgDetMain"
+              ],
+              "description": "A luxurious leather executive chair with padded armrests and a reclining feature."
+            },
+            {
+              "name": "Mesh Office Chair",
+              "price": 149.99,
+              "imgUrls": [
+                "https://th.bing.com/th/id/OIP.bRQs0Whkciu11NEItB8W5AHaJQ?w=1760&h=2200&rs=1&pid=ImgDetMain",
+                "https://i.pinimg.com/originals/c7/98/c6/c798c6a5bf958f2a2073ef7e34b28fa1.jpg"
+              ],
+              "description": "A breathable mesh office chair that provides excellent ventilation and support."
+            }
+          ],
+          "storageSolutions": [
+            {
+              "name": "Filing Cabinet",
+              "price": 159.99,
+              "imgUrls": [
+                "https://i.pinimg.com/originals/16/d4/0f/16d40f3f5f2660b968eabab14f229af2.jpg",
+                "https://th.bing.com/th/id/OIP.CvC5uEChwbgdLBqXfPq42gHaEa?w=700&h=417&rs=1&pid=ImgDetMain"
+              ],
+              "description": "A sturdy filing cabinet with multiple drawers to keep your documents organized."
+            },
+            {
+              "name": "Bookshelf",
+              "price": 249.99,
+              "imgUrls": [
+                "https://p.turbosquid.com/ts-thumb/Y5/GAaGqN/i4IiPMmQ/minotti_powellsofa_v9/jpg/1536751884/1920x1080/fit_q87/38d41702f8168b07bce44d968afd70895b78d847/minotti_powellsofa_v9.jpg",
+                "https://cdn.stylepark.com/transformations/manufacturers/s/structurelab/produkte/rx1/m/minotti/produkte/andersen-sofa/_1410x940_crop_center-center_none/andersen-sofa-5.jpg"
+              ],
+              "description": "A tall bookshelf with adjustable shelves, perfect for storing books and office supplies."
+            },
+            {
+              "name": "Storage Cabinet",
+              "price": 299.99,
+              "imgUrls": [
+                "https://th.bing.com/th/id/OIP.haKrueTOGNNDM79ztUrHhAHaHa?w=2500&h=2500&rs=1&pid=ImgDetMain",
+                "https://th.bing.com/th/id/OIP.gr6FEgE3AH8l6BTGU2zOXgHaIe?rs=1&pid=ImgDetMain"
+              ],
+              "description": "A large storage cabinet with multiple shelves and lockable doors for added security."
+            }
+          ]
+        }
+      }
+      
+]

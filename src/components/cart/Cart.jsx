@@ -5,7 +5,10 @@ import '../cart/Cart.css'
 import { useSelector } from 'react-redux';
 import PaymentSummary from './PaymentSummary';
 function Cart() {
+  
   const cart = useSelector((e) => e?.cart?.value);
+  // setLength(cart.length);
+  // console.log();
 
   // console.log(cart);
   return (

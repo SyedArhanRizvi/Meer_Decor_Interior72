@@ -10,6 +10,8 @@ import HomeDecor from "./components/homedecor/HomeDecor";
 import Outdoor from "./components/outdoor/Outdoor";
 import Contact from './components/contactus/Contact';
 import Cart from "./components/cart/Cart";
+import Bedroom from "./components/bedroom/Bedroom";
+import SignIn from "./components/signin/SignIn";
 function App() {
   return (
     <BrowserRouter>
@@ -21,9 +23,10 @@ function App() {
         <Route path="office" element={<Office />}></Route>
         <Route path="homedecor" element={<HomeDecor />}></Route>
         <Route path="outdoor" element={<Outdoor />}></Route>
-        {/* <Route path="bedroom" element={<BedRoom />}></Route> */}
+        <Route path="bedroom" element={<Bedroom />}></Route>
         <Route path="contactus" element={<Contact />}></Route>
         <Route path="cartEle" element={< Cart/>}></Route>
+        <Route path="signIn" element={<SignIn/>}></Route>
         {/* <Route path="/" element={<Home />} />
         <Route path="/" element={<Home />} />
         <Route path="/" element={<Home />} /> */}

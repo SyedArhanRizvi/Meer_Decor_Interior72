@@ -1,0 +1,157 @@
+{
+    "diningInteriorAndFurniture": {
+      "diningTables": [
+        {
+          "name": "Modern Glass Dining Table",
+          "price": 399.99,
+          "imgUrls": [
+            "https://sampleimage.com/modern-glass-dining-table.jpg"
+          ],
+          "description": "A sleek modern glass dining table with a metal base, perfect for contemporary dining rooms."
+        },
+        {
+          "name": "Rustic Farmhouse Dining Table",
+          "price": 599.99,
+          "imgUrls": [
+            "https://sampleimage.com/rustic-farmhouse-dining-table.jpg"
+          ],
+          "description": "A rustic farmhouse dining table with a solid wood construction and distressed finish."
+        },
+        {
+          "name": "Marble Dining Table",
+          "price": 799.99,
+          "imgUrls": [
+            "https://sampleimage.com/marble-dining-table.jpg"
+          ],
+          "description": "An elegant marble dining table with a polished surface and sturdy wooden legs."
+        },
+        {
+          "name": "Extendable Dining Table",
+          "price": 699.99,
+          "imgUrls": [
+            "https://sampleimage.com/extendable-dining-table.jpg"
+          ],
+          "description": "An extendable dining table that adapts to your space, with a sleek modern design."
+        }
+      ],
+      "diningChairs": [
+        {
+          "name": "Mid-Century Modern Dining Chairs",
+          "price": 129.99,
+          "imgUrls": [
+            "https://sampleimage.com/mid-century-modern-dining-chairs.jpg"
+          ],
+          "description": "A set of two mid-century modern dining chairs with upholstered seats and wooden legs."
+        },
+        {
+          "name": "Leather Dining Chairs",
+          "price": 149.99,
+          "imgUrls": [
+            "https://sampleimage.com/leather-dining-chairs.jpg"
+          ],
+          "description": "Stylish leather dining chairs with a contemporary design and comfortable seating."
+        },
+        {
+          "name": "Farmhouse Dining Bench",
+          "price": 179.99,
+          "imgUrls": [
+            "https://sampleimage.com/farmhouse-dining-bench.jpg"
+          ],
+          "description": "A rustic farmhouse dining bench that complements your dining table and offers extra seating."
+        },
+        {
+          "name": "Upholstered Dining Chairs",
+          "price": 139.99,
+          "imgUrls": [
+            "https://sampleimage.com/upholstered-dining-chairs.jpg"
+          ],
+          "description": "Elegant upholstered dining chairs with tufted backs and padded seats for added comfort."
+        },
+        {
+          "name": "Industrial Style Dining Chairs",
+          "price": 119.99,
+          "imgUrls": [
+            "https://sampleimage.com/industrial-style-dining-chairs.jpg"
+          ],
+          "description": "Durable industrial-style dining chairs with a metal frame and wooden seat."
+        }
+      ],
+      "diningBuffetsAndSideboards": [
+        {
+          "name": "Modern Buffet Cabinet",
+          "price": 499.99,
+          "imgUrls": [
+            "https://sampleimage.com/modern-buffet-cabinet.jpg"
+          ],
+          "description": "A sleek modern buffet cabinet with ample storage and a minimalist design."
+        },
+        {
+          "name": "Rustic Sideboard",
+          "price": 449.99,
+          "imgUrls": [
+            "https://sampleimage.com/rustic-sideboard.jpg"
+          ],
+          "description": "A rustic sideboard with a distressed finish, offering both style and functionality."
+        },
+        {
+          "name": "Mid-Century Modern Sideboard",
+          "price": 599.99,
+          "imgUrls": [
+            "https://sampleimage.com/mid-century-modern-sideboard.jpg"
+          ],
+          "description": "A mid-century modern sideboard with clean lines and plenty of storage space."
+        },
+        {
+          "name": "Classic Wooden Buffet",
+          "price": 399.99,
+          "imgUrls": [
+            "https://sampleimage.com/classic-wooden-buffet.jpg"
+          ],
+          "description": "A classic wooden buffet with intricate details and ample storage for dining essentials."
+        }
+      ],
+      "diningRoomAccessories": [
+        {
+          "name": "Elegant Table Runner",
+          "price": 29.99,
+          "imgUrls": [
+            "https://sampleimage.com/elegant-table-runner.jpg"
+          ],
+          "description": "A sophisticated table runner that adds a touch of elegance to your dining table."
+        },
+        {
+          "name": "Decorative Centerpiece",
+          "price": 49.99,
+          "imgUrls": [
+            "https://sampleimage.com/decorative-centerpiece.jpg"
+          ],
+          "description": "A stylish decorative centerpiece that enhances the look of your dining table."
+        },
+        {
+          "name": "Set of Cloth Napkins",
+          "price": 19.99,
+          "imgUrls": [
+            "https://sampleimage.com/set-of-cloth-napkins.jpg"
+          ],
+          "description": "A set of cloth napkins with a modern design, perfect for formal dining."
+        },
+        {
+          "name": "Table Place Mats",
+          "price": 24.99,
+          "imgUrls": [
+            "https://sampleimage.com/table-place-mats.jpg"
+          ],
+          "description": "Stylish table place mats that protect your dining table and add a touch of style."
+        },
+        {
+          "name": "Glassware Set",
+          "price": 79.99,
+          "imgUrls": [
+            "https://sampleimage.com/glassware-set.jpg"
+          ],
+          "description": "A set of elegant glassware that complements your dining setup."
+        }
+      ]
+    }
+  }
+  

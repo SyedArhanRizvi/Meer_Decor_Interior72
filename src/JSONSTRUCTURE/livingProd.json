@@ -1,0 +1,187 @@
+[
+  {
+
+    "livingRoomItems": {
+      "sofaSets": [
+        {
+          "name": "Modern Sofa",
+          "price": 999.99,
+          "imgUrls": [
+            "https://i.pinimg.com/originals/c7/98/c6/c798c6a5bf958f2a2073ef7e34b28fa1.jpg",
+            "https://th.bing.com/th/id/OIP.CvC5uEChwbgdLBqXfPq42gHaEa?w=700&h=417&rs=1&pid=ImgDetMain",
+            "https://p.turbosquid.com/ts-thumb/Y5/GAaGqN/i4IiPMmQ/minotti_powellsofa_v9/jpg/1536751884/1920x1080/fit_q87/38d41702f8168b07bce44d968afd70895b78d847/minotti_powellsofa_v9.jpg",
+            "https://cdn.stylepark.com/transformations/manufacturers/s/structurelab/produkte/rx1/m/minotti/produkte/andersen-sofa/_1410x940_crop_center-center_none/andersen-sofa-5.jpg",
+            "https://th.bing.com/th/id/OIP.bFJQouFu7J7tWs3bRdAS8gHaFO?w=555&h=392&rs=1&pid=ImgDetMain"
+          ],
+          "description": "A sleek and comfortable modern sofa with plush cushions and a stylish design."
+        },
+        {
+          "name": "Luxury Sectional Sofa",
+          "price": 1499.99,
+          "imgUrls": [
+            "https://i2.wp.com/thecarriedeer.com/wp-content/uploads/2022/02/north-shore-living-room-set-ashley-furniture.jpg",
+            "https://th.bing.com/th/id/OIP.q_RKFEDpa4cZh70DZl0M0QHaHa?w=650&h=650&rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/R.c40526eb3bf63403027786d3eaa00084?rik=goIyzJdq%2fT5HPg&riu=http%3a%2f%2fwww.avetexfurniture.com%2fimages%2fproducts%2f7%2f43997%2fsectioanl-sofa-ronaldo-b33.jpg&ehk=d%2bkSSX0jr2R4Nr7MQSodZB%2fhI0AvvmKY76RV85e3Rqo%3d&risl=&pid=ImgRaw&r=0",
+            "https://th.bing.com/th/id/OIP.NuSBU9qV6lWUZu7Bt3hJIwHaHa?w=736&h=736&rs=1&pid=ImgDetMain"
+          ],
+          "description": "A spacious sectional sofa with a contemporary look and adjustable headrests."
+        },
+        {
+          "name": "Convertible Sofa Bed",
+          "price": 799.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.t68YTXu1RhetKFLPRqvULAAAAA?rs=1&pid=ImgDetMain",
+            "https://i5.walmartimages.com/seo/Zechuan-Sleeper-Sofa-Couch-Pull-Out-Bed-55-Modern-Velvet-Convertible-Bed-Loveseat-Living-Room-Adjustable-Backrest-Grey_a91cb971-cc0b-42e2-92bb-ce54e8c36f48.053c0353cb8e416d37a41afefce994ac.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+            "https://th.bing.com/th/id/OIP.y96gMG5wsr-czY0fC2rMvAHaHa?w=646&h=646&rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.AJTzNktGFFF_srmKG5M2DQHaGA?w=800&h=649&rs=1&pid=ImgDetMain",
+            "https://m.media-amazon.com/images/I/810MpGDqRrL._AC_SX679_.jpg"
+          ],
+          "description": "A versatile convertible sofa bed that easily transforms into a bed, perfect for small spaces."
+        },
+        {
+          "name": "Leather Recliner Sofa",
+          "price": 1299.99,
+          "imgUrls": [
+            "https://i.pinimg.com/originals/73/c2/19/73c21915d26fb36eee9f8cc3db979241.jpg",
+            "https://th.bing.com/th/id/R.0798a6f34b00e1f13ff08bc0f97c5ecc?rik=Qn6J2zq4NMZA%2fw&riu=http%3a%2f%2fwww.sofasshopping.com%2fimages%2fproducts%2f3%2f933%2fadd_22603-s-north-shore-sofa_2_2.jpg&ehk=00%2bXK6yJfNHIbxTdrNBan0KuodQkWftbQ1Dl1TbwTGM%3d&risl=&pid=ImgRaw&r=0",
+            "https://i.pinimg.com/originals/16/d4/0f/16d40f3f5f2660b968eabab14f229af2.jpg",
+            "https://i.pinimg.com/originals/20/01/61/2001615d59c08f1514741187c0e526b1.jpg",
+            "https://th.bing.com/th/id/R.b3d5d9f06c18a43359327bfdb76dee3c?rik=Lrt7knx2AbeHGw&riu=http%3a%2f%2fwww.sofasshopping.com%2fimages%2fproducts%2f3%2f943%2f22603-l-north-shore-loveseat_2.jpg&ehk=AoRHg%2b760r4NsDeaMuXEuZq2um%2b%2bpEyTTyOAG0Mfrak%3d&risl=&pid=ImgRaw&r=0"
+          ],
+          "description": "A luxurious leather recliner sofa with adjustable settings and built-in cup holders."
+        },
+        {
+          "name": "Chesterfield Sofa",
+          "price": 1099.99,
+          "imgUrls": [
+            "https://i.pinimg.com/736x/ca/21/d8/ca21d8b85e2e2200df857b47d575a3c4--leather-chesterfield-living-room-furniture.jpg",
+            "https://5.imimg.com/data5/MA/YC/MY-41404933/chesterfield-two-seater-leather-sofa-500x500.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81GMs6--03L._AC_SL1471_.jpg",
+            "https://www.forestcontract.com/wp-content/uploads/GLADSTONE_FABRICCATEGORY_1-copy.jpg",
+            "https://th.bing.com/th/id/OIP.64kff5CmEZYZcWHNjdvP2AHaE7?rs=1&pid=ImgDetMain"
+          ],
+          "description": "A classic Chesterfield sofa with deep button tufting and rolled arms for an elegant look."
+        },
+        {
+          "name": "Compact Loveseat",
+          "price": 699.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.yh0fkKrL3dKSCLihXkcargHaHZ?rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.yh0fkKrL3dKSCLihXkcargHaHZ?rs=1&pid=ImgDetMain",
+            "https://i5.walmartimages.com/seo/BSHTI-Convertible-Sofa-Bed-Velvet-Futon-Sofa-Sleeper-Couch-with-Armrest-and-2-Pillows-for-Living-Room-Office-Light-Gray_18c1955a-95fe-4471-bf34-c7ccb5da748d.97176e833ca29dd1bdd952c7c57493b7.jpeg",
+            "https://th.bing.com/th/id/OIP.iwQzu-WJ9hzGuI3tgagatQHaHa?rs=1&pid=ImgDetMain",
+            "https://m.media-amazon.com/images/I/81XDgcMMX6L._AC_SL1500_.jpg"
+          ],
+          "description": "A compact loveseat, perfect for cozy spaces and intimate settings."
+        },
+        {
+          "name": "Fabric Sofa",
+          "price": 899.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.njTO17HjaOkW9in1dHPEbgAAAA?rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.SxcHYTuMntInNmKzggnW3wHaHa?w=640&h=640&rs=1&pid=ImgDetMain",
+            "https://i.pinimg.com/originals/ac/85/6e/ac856eaa4221df817ad5788e01582a64.jpg",
+            "https://th.bing.com/th/id/OIP.xNC-zC8LH_xRDLFEQRQNSgHaHa?w=500&h=500&rs=1&pid=ImgDetMain"
+          ],
+          "description": "A comfortable fabric sofa with a durable build and soft upholstery."
+        },
+        {
+          "name": "Upholstered Sleeper Sofa",
+          "price": 1199.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.Nfy1IoNx7cxNM-JKmi1cOgHaHa?rs=1&pid=ImgDetMain",
+            "https://d9dvmj2a7k2dc.cloudfront.net/catalog/product/cache/1/image/731x481/17f82f742ffe127f42dca9de82fb58b1/s/m/sm6415-lv-1_foa2019_1.jpg",
+            "https://i.pinimg.com/736x/22/a5/4c/22a54ca6680380f174392c299419397e.jpg",
+            "https://i.pinimg.com/originals/fa/3e/39/fa3e397a4aa35286e1845146c01dc13f.jpg",
+            "https://www.furniturepick.com/media/catalog/product/S/M/SM6404-LV-loveseat-1.jpg"
+          ],
+          "description": "An upholstered sleeper sofa that provides both comfort and functionality for guests."
+        },
+        {
+          "name": "Curved Sofa",
+          "price": 1099.99,
+          "imgUrls": [
+            "https://i.pinimg.com/originals/79/de/9a/79de9a9e0fff9bf80a7e7e5c64defcc7.jpg",
+            "https://www.liveenhanced.com/wp-content/uploads/2019/12/9-curved-sofa.jpg",
+            "https://i.pinimg.com/736x/52/03/ec/5203ec51a1f857fd93e4409ff95a25ec.jpg",
+            "https://www.liveenhanced.com/wp-content/uploads/2019/12/2-curved-sofa.jpg"
+          ],
+          "description": "A modern curved sofa with a unique shape and comfortable seating."
+        },
+        {
+          "name": "Tufted Sofa",
+          "price": 899.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.-NhupmoLiEh-oG-xnVk6sgHaE8?w=1200&h=800&rs=1&pid=ImgDetMain",
+            "https://m.media-amazon.com/images/I/61Cu+l0OH5L._AC_SL1067_.jpg",
+            "https://th.bing.com/th/id/OIP._bi1pOmZcUC81mPfiHJRmAAAAA?rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.WWWVnTvE-aXjk_ztY7DvIAHaFQ?rs=1&pid=ImgDetMain"
+          ],
+          "description": "A tufted sofa with elegant design and deep button tufting for a refined look."
+        }
+      ],
+      "chairs": [
+        {
+          "name": "Accent Chair",
+          "price": 299.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.fV6FAXEeR0YlmnWxXm5h-QHaHa?rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.SKsYvC_LGWpbY96Nx1tt3wHaHa?w=610&h=610&rs=1&pid=ImgDetMain",
+            "https://i.pinimg.com/originals/f1/20/23/f12023e8e788d69d4f4acb4cc12b5435.jpg",
+            "https://www.comfyco.com/pics3/fit/m/mw-eei-2142-san.jpg"
+          ],
+          "description": "A stylish accent chair that adds a pop of color and comfort to any room."
+        },
+        {
+          "name": "Recliner Chair",
+          "price": 499.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.BTnyN8bdwW72ORh0xzTvEAAAAA?rs=1&pid=ImgDetMain",
+            "https://images-na.ssl-images-amazon.com/images/I/71Pb8um8RNL._AC_SL1500_.jpg",
+            "https://th.bing.com/th/id/OIP.BTnyN8bdwW72ORh0xzTvEAAAAA?rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.AD9-smiKyxkC_9Ct0MoxswAAAA?rs=1&pid=ImgDetMain",
+            "https://i5.walmartimages.com/asr/1fec9435-4b8a-4a7c-8596-710b5ba1d21d.0ca3ab8e0071762e0c477a0df8268887.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+          ],
+          "description": "A comfortable recliner chair with adjustable settings and built-in footrest."
+        },
+        {
+          "name": "Wingback Chair",
+          "price": 349.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.gr6FEgE3AH8l6BTGU2zOXgHaIe?rs=1&pid=ImgDetMain",
+          "https://i.pinimg.com/originals/4e/e3/7f/4ee37fb86a6d987a80fbc3bca0c4f10f.jpg",
+          "https://th.bing.com/th/id/OIP.Nr5hRo3UDUuZRpe2tmPEAwHaHa?w=500&h=500&rs=1&pid=ImgDetMain",
+          "https://th.bing.com/th/id/OIP.VhcaS0va9m2pTZrUWbaBzAAAAA?w=350&h=428&rs=1&pid=ImgDetMain",
+          "https://th.bing.com/th/id/OIP.haKrueTOGNNDM79ztUrHhAHaHa?w=2500&h=2500&rs=1&pid=ImgDetMain"
+          ],
+          "description": "A classic wingback chair with a tall back and elegant design, perfect for reading."
+        },
+        {
+          "name": "Rocking Chair",
+          "price": 259.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.vYcxsEVoPBjYNV8guxFLZwAAAA?rs=1&pid=ImgDetMain",
+          "https://th.bing.com/th/id/OIP.5yj836m56E6NGbS7MszabAHaHa?w=1380&h=1380&rs=1&pid=ImgDetMain",
+          "https://i.pinimg.com/originals/0b/e5/00/0be500af803b60f8b5eb2f85d723febf.jpg",
+          "https://i.pinimg.com/474x/ed/79/15/ed791551e89e3312cc5484aee8657b39--craftsman-rocking-chairs-wooden-rocking-chairs.jpg",
+          "https://s3.dutchcrafters.com/productimages/product_images/pid_42358-Amish-Upholstered-Classic-Wide-Rocker-with-Optional-Footstool--172.jpg"
+
+          ],
+          "description": "A traditional wooden rocking chair that adds a cozy touch to any living room."
+        },
+        {
+          "name": "Swivel Chair",
+          "price": 379.99,
+          "imgUrls": [
+            "https://th.bing.com/th/id/OIP.oqxeTSv78hCq8wUaR2lwPAAAAA?rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.N-iQuZn7riSk_saApGxZSAHaHa?rs=1&pid=ImgDetMain",
+            "https://i.pinimg.com/originals/bf/06/d9/bf06d9af275a0c724d48f12c553c892b.jpg",
+            "https://th.bing.com/th/id/OIP.Dyis24HAMDKErpn_HU3stQHaHa?w=650&h=650&rs=1&pid=ImgDetMain",
+            "https://th.bing.com/th/id/OIP.bRQs0Whkciu11NEItB8W5AHaJQ?w=1760&h=2200&rs=1&pid=ImgDetMain"
+          ],
+          "description": "A traditional wooden rocking chair that adds a cozy touch to any living room."
+        }
+    ]
+  }
+}
+]

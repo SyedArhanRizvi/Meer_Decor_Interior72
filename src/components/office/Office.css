@@ -1,16 +1,21 @@
 main {
     width: 100vw;
 }
-main .homeDecorLandingPage{
+main .officeLandingPage{
     width: 100%;
     height: 80vh;
-    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/61414a33919178.56bcc5caf35da.jpg);
-    background-position:0px -250px;
+    background-image: url(https://i.pinimg.com/originals/cd/2d/a9/cd2da956c200e733bbe81fcc41d4eed7.jpg);
+    background-position:0px -300px;
     background-repeat: no-repeat;
     background-size: cover;
 }
+main .officeLandingPage div{
+    height: 100%;
+    width: 100%;
+    background-color: #0d0d0d6a;
+}
 
-main .homeDecorS1{
+main .officeS1{
     width: 100%;
     padding: 30px;
     display: flex;
@@ -21,12 +26,12 @@ main .homeDecorS1{
     border: 2px solid red;
     flex-wrap: wrap;
 }
-main .homeDecorS1 .hdInfo{
+main .officeS1 .officeInfo{
     width: 40em;
     height: 30em;
     border: 1px solid black;
 }
-main .homeDecorS1 .hdImg{
+main .officeS1 .officeImg{
     width: 40em;
     height: 30em;
     border: 1px solid black;
@@ -35,7 +40,7 @@ main .homeDecorS1 .hdImg{
     right: 5em;
     margin-bottom: 50px;
 }
-main .homeDecorS1 .hdImg .left{
+main .officeS1 .officeImg .left{
     position: absolute;
     top: 10%;
     right: -50px;
@@ -48,11 +53,11 @@ main .homeDecorS1 .hdImg .left{
     transition: 0.5s;
     font-size: 1.2em;
 }
-main .homeDecorS1 .hdImg .left:hover{
+main .officeS1 .officeImg .left:hover{
     background: rgb(125, 168, 41);
     cursor: pointer;
 }
-main .homeDecorS1 .hdImg .right{
+main .officeS1 .officeImg .right{
     width: 5em;
     height: 1.7em;
     position: absolute;
@@ -65,17 +70,17 @@ main .homeDecorS1 .hdImg .right{
     border-top-right-radius: 120px;
     transition: 0.5s;
 }
-main .homeDecorS1 .hdImg .right:hover{
+main .officeS1 .officeImg .right:hover{
     background: rgb(125, 168, 41);
     cursor: pointer;
 }
-main .hdSlideBar{
+main .officeSlideBar{
     width: 100%;
     padding: 30px;
     border: 2px solid red;
     margin-bottom: 50px;
 }
-main .hdSlideBar div{
+main .officeSlideBar div{
     width: 100%;
     height: 20em;
     border: 1px solid black;
@@ -108,13 +113,7 @@ main .hdSlideBar div{
 
 
 
-
-
-
-
-
-
-main .homeDecorItemsShopping{
+main .OfficeItemShopping{
     width: 70%;
     padding-top: 40px;
     padding-bottom: 20px;
